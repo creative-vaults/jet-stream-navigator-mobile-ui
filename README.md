@@ -25,5 +25,5 @@ The **Airport Navigator App** is a mobile application designed to enhance the tr
 ## Prerequisites
 
 - Node.js (version 14.x or higher)
-- npm (version 6.x or higher) or yarn (version 1.x or higher)
+- npm (version 6.x or higher)
 - Expo CLI (version 4.x or higher)
